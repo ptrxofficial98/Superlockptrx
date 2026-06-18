@@ -19,4 +19,4 @@ Superlock Generations
 # DOWNLOAD AREA
 SUPERLOCK V1 : NO LINK
 SUPERLOCK V2 : NO LINK
-SUPERLOCK V3 : GITHUB(LINK)
+SUPERLOCK V3 : [DOWNLOAD](https://github.com/ptrxofficial98/Superlockptrx/raw/refs/heads/main/Superlock%203.3.zip)
