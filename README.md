@@ -18,7 +18,7 @@ Superlock Generations
  - Added html reader
  - Added Other Awesome Tools!
 
-**DOWNLOAD AREA**
+**DOWNLOAD**
 - SUPERLOCK V1 : NO LINK
 - SUPERLOCK V2 : NO LINK
 - SUPERLOCK V3 : [DOWNLOAD](https://github.com/ptrxofficial98/Superlockptrx/raw/refs/heads/main/Superlock%203.3.zip)
